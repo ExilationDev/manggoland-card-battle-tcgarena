@@ -7,7 +7,7 @@
         "name": "Manggo",
         "type": "Object",
         "cost": 0,
-        "image": "https://media.discordapp.net/attachments/1525706827617013770/1525708773035872306/001_Manggo.png?ex=6a545e85&is=6a530d05&hm=b79eaa28a8044946c00acd8faf1f8c7e8358ef52c0954ee034a9e846bc4c1a36",
+        "image": "https://raw.githubusercontent.com/ExilationDev/manggoland-card-battle-tcgarena/refs/heads/main/Cards/Objects/webp/001_Manggo.webp",
         "isHorizontal": false
       }
     },
@@ -26,7 +26,7 @@
         "name": "Manggo",
         "type": "Object",
         "cost": 0,
-        "image": "https://media.discordapp.net/attachments/1525706827617013770/1525707022979301486/001_ManggoSUR.png?ex=6a545ce4&is=6a530b64&hm=33ee3a2c40ae177c9e313ddddd99b716ebf561d03e435338c8bd7d887bd5e3cf",
+        "image": "https://raw.githubusercontent.com/ExilationDev/manggoland-card-battle-tcgarena/refs/heads/main/Cards/Objects/webp/001_ManggoSUR.webp",
         "isHorizontal": false
       }
     },
@@ -45,7 +45,7 @@
         "name": "Rose Magic Heart",
         "type": "Object",
         "cost": 0,
-        "image": "https://media.discordapp.net/attachments/1525706827617013770/1525707023373697095/002_RoseMagicHeart.png?ex=6a545ce4&is=6a530b64&hm=7a3c093f1a308eaf68f98d440e8cf7ab1fd02ae227d3f6e0dccac6b10bdfe540",
+        "image": "https://raw.githubusercontent.com/ExilationDev/manggoland-card-battle-tcgarena/refs/heads/main/Cards/Objects/webp/002_RoseMagicHeart.webp",
         "isHorizontal": false
       }
     },
@@ -63,7 +63,7 @@
         "name": "Love Crowny",
         "type": "Object",
         "cost": 0,
-        "image": "https://media.discordapp.net/attachments/1525706827617013770/1525707023755509911/003_LoveCrowny.png?ex=6a545ce4&is=6a530b64&hm=ee1aa6cc311c4f9cdc0a0e20bd41fd9e770985a3e6d9f6a70a42a59cb605b204",
+        "image": "https://raw.githubusercontent.com/ExilationDev/manggoland-card-battle-tcgarena/refs/heads/main/Cards/Objects/webp/003_LoveCrowny.webp",
         "isHorizontal": false
       }
     },
@@ -81,7 +81,7 @@
         "name": "Aramax",
         "type": "Object",
         "cost": 0,
-        "image": "https://media.discordapp.net/attachments/1525706827617013770/1525707024115957881/004_Aramax.png?ex=6a545ce4&is=6a530b64&hm=8d7fd24162d96acc1081266b89991ff922c0c649b3ac9f0b970f127631ac3c67",
+        "image": "https://raw.githubusercontent.com/ExilationDev/manggoland-card-battle-tcgarena/refs/heads/main/Cards/Objects/webp/004_Aramax.webp",
         "isHorizontal": false
       }
     },
@@ -99,7 +99,25 @@
         "name": "Green Wolf",
         "type": "Object",
         "cost": 0,
-        "image": "https://cdn.discordapp.com/attachments/1525706827617013770/1525707024569077971/005_GreenWolf.png?ex=6a545ce4&is=6a530b64&hm=edb086a0213ecf921340aa5ebd64d50bffb49f56fbcabaa250f3de98509025d2",
+        "image": "https://raw.githubusercontent.com/ExilationDev/manggoland-card-battle-tcgarena/refs/heads/main/Cards/Objects/webp/005_GreenWolf.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "MGL-005-Green Wolf",
+    "type": "Object",
+    "cost": 0,
+    "Environment": "Gloom",
+    "Rarity": "UR"
+  },
+  "SUR | MGL-005": {
+    "id": "SUR | MGL-005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Green Wolf",
+        "type": "Object",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/ExilationDev/manggoland-card-battle-tcgarena/refs/heads/main/Cards/Objects/webp/005_GreenWolfSUR.webp",
         "isHorizontal": false
       }
     },
@@ -117,7 +135,7 @@
         "name": "Azure",
         "type": "Object",
         "cost": 0,
-        "image": "https://cdn.discordapp.com/attachments/1525706827617013770/1525707024971858022/006_Azure.png?ex=6a545ce5&is=6a530b65&hm=7916a407c33f26e0995bef652ddb25d5c5999d2fba0992a12e029bb99486742c&",
+        "image": "https://raw.githubusercontent.com/ExilationDev/manggoland-card-battle-tcgarena/refs/heads/main/Cards/Objects/webp/006_Azure.webp",
         "isHorizontal": false
       }
     },
@@ -135,7 +153,7 @@
         "name": "Rosa",
         "type": "Object",
         "cost": 0,
-        "image": "https://cdn.discordapp.com/attachments/1525706827617013770/1525707025458135050/007_Rosa.png?ex=6a545ce5&is=6a530b65&hm=0520674a3c7e20c387106b836f075c506cd909eb759ed568ca89461a8831a41c&",
+        "image": "https://raw.githubusercontent.com/ExilationDev/manggoland-card-battle-tcgarena/refs/heads/main/Cards/Objects/webp/007_Rosa.webp",
         "isHorizontal": false
       }
     },
@@ -153,7 +171,7 @@
         "name": "Mauve",
         "type": "Object",
         "cost": 0,
-        "image": "https://cdn.discordapp.com/attachments/1525706827617013770/1525707025949003837/008_Mauve.png?ex=6a545ce5&is=6a530b65&hm=849a5783ff78f3a8be60bbdb323e250ddc120ff8f2a698aa4cd700d0a76d5ceb&",
+        "image": "https://raw.githubusercontent.com/ExilationDev/manggoland-card-battle-tcgarena/refs/heads/main/Cards/Objects/webp/008_Mauve.webp",
         "isHorizontal": false
       }
     },
@@ -171,7 +189,7 @@
         "name": "Jam Toast",
         "type": "Object",
         "cost": 0,
-        "image": "https://cdn.discordapp.com/attachments/1525706827617013770/1525707092034457670/009_JamToast.png?ex=6a545cf5&is=6a530b75&hm=560efd748ddca278c3bba1267a535147dc052dc0aaac57886be65235d16d6a47&",
+        "image": "https://raw.githubusercontent.com/ExilationDev/manggoland-card-battle-tcgarena/refs/heads/main/Cards/Objects/webp/009_JamToast.webp",
         "isHorizontal": false
       }
     },
@@ -189,7 +207,7 @@
         "name": "Battery",
         "type": "Object",
         "cost": 0,
-        "image": "https://cdn.discordapp.com/attachments/1525706827617013770/1525707092550352986/010_Battery.png?ex=6a545cf5&is=6a530b75&hm=f24a5b56fafc9e2da87f73b6d5fc354a88815400ed2574115665f08ba293a850&",
+        "image": "https://raw.githubusercontent.com/ExilationDev/manggoland-card-battle-tcgarena/refs/heads/main/Cards/Objects/webp/010_Battery.webp",
         "isHorizontal": false
       }
     },
@@ -207,7 +225,7 @@
         "name": "Mitu Flashlight",
         "type": "Object",
         "cost": 0,
-        "image": "https://cdn.discordapp.com/attachments/1525706827617013770/1525707092994822154/011_MituFlashlight.png?ex=6a545cf5&is=6a530b75&hm=3b39e725bf550a8c9866e4e60b4ad6ff25cdeb0720838adc6eeed06fbe584c24&",
+        "image": "https://raw.githubusercontent.com/ExilationDev/manggoland-card-battle-tcgarena/refs/heads/main/Cards/Objects/webp/011_MituFlashlight.webp",
         "isHorizontal": false
       }
     },
@@ -225,7 +243,7 @@
         "name": "Crystal",
         "type": "Object",
         "cost": 0,
-        "image": "https://cdn.discordapp.com/attachments/1525706827617013770/1525707093422903457/012_Crystal.png?ex=6a545cf5&is=6a530b75&hm=ae9ae265dfc4cc1643c7a10b73707bfb311c1777b3d0db168029c654f13c3231&",
+        "image": "https://raw.githubusercontent.com/ExilationDev/manggoland-card-battle-tcgarena/refs/heads/main/Cards/Objects/webp/012_Crystal.webp",
         "isHorizontal": false
       }
     },
@@ -243,7 +261,7 @@
         "name": "Byte",
         "type": "Object",
         "cost": 0,
-        "image": "https://cdn.discordapp.com/attachments/1525706827617013770/1525707093812707338/013_Byte.png?ex=6a545cf5&is=6a530b75&hm=a62ce271ff961829be8983264f596f5fef017435ce8adfe85959a940501d058c&",
+        "image": "https://raw.githubusercontent.com/ExilationDev/manggoland-card-battle-tcgarena/refs/heads/main/Cards/Objects/webp/013_Byte.webp",
         "isHorizontal": false
       }
     },
@@ -261,7 +279,7 @@
         "name": "Jelly Cube",
         "type": "Object",
         "cost": 0,
-        "image": "https://cdn.discordapp.com/attachments/1525706827617013770/1525707094286799030/014_JellyCube.png?ex=6a545cf5&is=6a530b75&hm=63dfa3c60b0051a3c8e3c25338f1ec9e53b83646109bd7265940a718931d52c3&",
+        "image": "https://raw.githubusercontent.com/ExilationDev/manggoland-card-battle-tcgarena/refs/heads/main/Cards/Objects/webp/014_JellyCube.webp",
         "isHorizontal": false
       }
     },
@@ -279,7 +297,25 @@
         "name": "Fennec Bow",
         "type": "Object",
         "cost": 0,
-        "image": "https://cdn.discordapp.com/attachments/1525706827617013770/1525707094932848691/015_FennecBow.png?ex=6a545cf5&is=6a530b75&hm=4dbcbdf17f6a4ea8fcd0ce5c24fddbc5040f59e2e2496ca50758e990821d05f1&",
+        "image": "https://raw.githubusercontent.com/ExilationDev/manggoland-card-battle-tcgarena/refs/heads/main/Cards/Objects/webp/015_FennecBow.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "MGL-015-Fennec Bow",
+    "type": "Object",
+    "cost": 0,
+    "Rarity": "SR",
+    "Environment": "Chill"
+  },
+  "SSR | MGL-015": {
+    "id": "SSR | MGL-015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fennec Bow",
+        "type": "Object",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/ExilationDev/manggoland-card-battle-tcgarena/refs/heads/main/Cards/Objects/webp/015_FennecBowSSR.webp",
         "isHorizontal": false
       }
     },
@@ -297,7 +333,7 @@
         "name": "Rose Magic Heart",
         "type": "Object",
         "cost": 0,
-        "image": "https://cdn.discordapp.com/attachments/1525706827617013770/1525707095398158376/016_RoseMagicHeart.png?ex=6a545cf5&is=6a530b75&hm=26251e52b576f4d1a9598a4f3510ae11b43ec651cc439918fd7ab9b9e2324a21&",
+        "image": "https://raw.githubusercontent.com/ExilationDev/manggoland-card-battle-tcgarena/refs/heads/main/Cards/Objects/webp/016_RoseMagicHeart.webp",
         "isHorizontal": false
       }
     },
@@ -315,7 +351,7 @@
         "name": "Hydrogen Canister",
         "type": "Object",
         "cost": 0,
-        "image": "https://cdn.discordapp.com/attachments/1525706827617013770/1525707095981424801/017_HydrogenCanister.png?ex=6a545cf5&is=6a530b75&hm=a1bd11ff93a142a132d91d28969970c779f776f13ce9a2769aed806de826ebf6&",
+        "image": "https://raw.githubusercontent.com/ExilationDev/manggoland-card-battle-tcgarena/refs/heads/main/Cards/Objects/webp/017_HydrogenCanister.webp",
         "isHorizontal": false
       }
     },
@@ -333,7 +369,7 @@
         "name": "Ceramo & Fate",
         "type": "Object",
         "cost": 0,
-        "image": "https://media.discordapp.net/attachments/1525706827617013770/1525707096744657036/018_CeramoAndFate.png?ex=6a545cf6&is=6a530b76&hm=7438a70b52e484bc4423a794c4e0f63650f0f6586731e55010021d3a25a4fb7b&=&format=webp&quality=lossless&width=768&height=1076",
+        "image": "https://raw.githubusercontent.com/ExilationDev/manggoland-card-battle-tcgarena/refs/heads/main/Cards/Objects/webp/018_CeramoAndFate.webp",
         "isHorizontal": false
       }
     },
@@ -341,6 +377,42 @@
     "type": "Object",
     "cost": 0,
     "Environment": "Gloom",
+    "Rarity": "SR"
+  },
+  "SR | MGL-019": {
+    "id": "SR | MGL-019",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ushanka",
+        "type": "Object",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/ExilationDev/manggoland-card-battle-tcgarena/refs/heads/main/Cards/Objects/webp/019_Ushanka.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "MGL-019-Ushanka",
+    "type": "Object",
+    "cost": 0,
+    "Environment": "Arid",
+    "Rarity": "SR"
+  },
+  "SR | MGL-020": {
+    "id": "SR | MGL-020",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Seed Packet",
+        "type": "Object",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/ExilationDev/manggoland-card-battle-tcgarena/refs/heads/main/Cards/Objects/webp/020_SeedPacket.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "MGL-020-Seed Packet",
+    "type": "Object",
+    "cost": 0,
+    "Environment": "Tropic",
     "Rarity": "SR"
   },
   "C | MGL-031": {
