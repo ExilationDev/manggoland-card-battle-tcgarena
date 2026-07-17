@@ -8,7 +8,7 @@
   "customHelp": "You have to manage your play area manually.",
   "cardRotation": "90",
   "cards": {
-    "dataUrl": "https://raw.githubusercontent.com/ExilationDev/manggoland-card-battle-tcgarena/refs/heads/main/GameDataMGLCardBattleFinal.json",
+    "dataUrl": "https://raw.githubusercontent.com/ExilationDev/manggoland-card-battle-tcgarena/refs/heads/main/MGLCardList.json",
     "cardBack": "https://raw.githubusercontent.com/ExilationDev/manggoland-card-battle-tcgarena/refs/heads/main/Cards/Objects/webp/000_BackCover.webp"
   },
   "deckBuilding": {
