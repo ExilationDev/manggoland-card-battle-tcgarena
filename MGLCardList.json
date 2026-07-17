@@ -1,0 +1,460 @@
+{
+  "UR | MGL-001": {
+    "id": "UR | MGL-001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Manggo",
+        "type": "Object",
+        "cost": 0,
+        "image": "https://media.discordapp.net/attachments/1525706827617013770/1525708773035872306/001_Manggo.png?ex=6a545e85&is=6a530d05&hm=b79eaa28a8044946c00acd8faf1f8c7e8358ef52c0954ee034a9e846bc4c1a36",
+        "isHorizontal": false
+      }
+    },
+    "name": "MGL-001-Manggo",
+    "type": "Object",
+    "cost": 0,
+    "Support Type": "",
+    "Environment": "Tropic",
+    "Rarity": "UR"
+  },
+  "SUR | MGL-001": {
+    "id": "SUR | MGL-001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Manggo",
+        "type": "Object",
+        "cost": 0,
+        "image": "https://media.discordapp.net/attachments/1525706827617013770/1525707022979301486/001_ManggoSUR.png?ex=6a545ce4&is=6a530b64&hm=33ee3a2c40ae177c9e313ddddd99b716ebf561d03e435338c8bd7d887bd5e3cf",
+        "isHorizontal": false
+      }
+    },
+    "name": "MGL-001-Manggo",
+    "type": "Object",
+    "cost": 0,
+    "Support Type": "",
+    "Environment": "Tropic",
+    "Rarity": "SUR"
+  },
+  "UR | MGL-002": {
+    "id": "UR | MGL-002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rose Magic Heart",
+        "type": "Object",
+        "cost": 0,
+        "image": "https://media.discordapp.net/attachments/1525706827617013770/1525707023373697095/002_RoseMagicHeart.png?ex=6a545ce4&is=6a530b64&hm=7a3c093f1a308eaf68f98d440e8cf7ab1fd02ae227d3f6e0dccac6b10bdfe540",
+        "isHorizontal": false
+      }
+    },
+    "name": "MGL-002-Rose Magic Heart",
+    "type": "Object",
+    "cost": 0,
+    "Environment": "Chill",
+    "Rarity": "UR"
+  },
+  "UR | MGL-003": {
+    "id": "UR | MGL-003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Love Crowny",
+        "type": "Object",
+        "cost": 0,
+        "image": "https://media.discordapp.net/attachments/1525706827617013770/1525707023755509911/003_LoveCrowny.png?ex=6a545ce4&is=6a530b64&hm=ee1aa6cc311c4f9cdc0a0e20bd41fd9e770985a3e6d9f6a70a42a59cb605b204",
+        "isHorizontal": false
+      }
+    },
+    "name": "MGL-003-Love Crowny",
+    "type": "Object",
+    "cost": 0,
+    "Environment": "Damp",
+    "Rarity": "UR"
+  },
+  "UR | MGL-004": {
+    "id": "UR | MGL-004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aramax",
+        "type": "Object",
+        "cost": 0,
+        "image": "https://media.discordapp.net/attachments/1525706827617013770/1525707024115957881/004_Aramax.png?ex=6a545ce4&is=6a530b64&hm=8d7fd24162d96acc1081266b89991ff922c0c649b3ac9f0b970f127631ac3c67",
+        "isHorizontal": false
+      }
+    },
+    "name": "MGL-004-Aramax",
+    "type": "Object",
+    "cost": 0,
+    "Rarity": "UR",
+    "Environment": "Arid"
+  },
+  "UR | MGL-005": {
+    "id": "UR | MGL-005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Green Wolf",
+        "type": "Object",
+        "cost": 0,
+        "image": "https://cdn.discordapp.com/attachments/1525706827617013770/1525707024569077971/005_GreenWolf.png?ex=6a545ce4&is=6a530b64&hm=edb086a0213ecf921340aa5ebd64d50bffb49f56fbcabaa250f3de98509025d2",
+        "isHorizontal": false
+      }
+    },
+    "name": "MGL-005-Green Wolf",
+    "type": "Object",
+    "cost": 0,
+    "Environment": "Gloom",
+    "Rarity": "UR"
+  },
+  "R | MGL-006": {
+    "id": "R | MGL-006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Azure",
+        "type": "Object",
+        "cost": 0,
+        "image": "https://cdn.discordapp.com/attachments/1525706827617013770/1525707024971858022/006_Azure.png?ex=6a545ce5&is=6a530b65&hm=7916a407c33f26e0995bef652ddb25d5c5999d2fba0992a12e029bb99486742c&",
+        "isHorizontal": false
+      }
+    },
+    "name": "MGL-006-Azure",
+    "type": "Object",
+    "cost": 0,
+    "Rarity": "R",
+    "Environment": "Chill"
+  },
+  "R | MGL-007": {
+    "id": "R | MGL-007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rosa",
+        "type": "Object",
+        "cost": 0,
+        "image": "https://cdn.discordapp.com/attachments/1525706827617013770/1525707025458135050/007_Rosa.png?ex=6a545ce5&is=6a530b65&hm=0520674a3c7e20c387106b836f075c506cd909eb759ed568ca89461a8831a41c&",
+        "isHorizontal": false
+      }
+    },
+    "name": "MGL-007-Rosa",
+    "type": "Object",
+    "cost": 0,
+    "Environment": "Damp",
+    "Rarity": "R"
+  },
+  "R | MGL-008": {
+    "id": "R | MGL-008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mauve",
+        "type": "Object",
+        "cost": 0,
+        "image": "https://cdn.discordapp.com/attachments/1525706827617013770/1525707025949003837/008_Mauve.png?ex=6a545ce5&is=6a530b65&hm=849a5783ff78f3a8be60bbdb323e250ddc120ff8f2a698aa4cd700d0a76d5ceb&",
+        "isHorizontal": false
+      }
+    },
+    "name": "MGL-008-Mauve",
+    "type": "Object",
+    "cost": 0,
+    "Rarity": "R",
+    "Environment": "Gloom"
+  },
+  "SR | MGL-009": {
+    "id": "SR | MGL-009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jam Toast",
+        "type": "Object",
+        "cost": 0,
+        "image": "https://cdn.discordapp.com/attachments/1525706827617013770/1525707092034457670/009_JamToast.png?ex=6a545cf5&is=6a530b75&hm=560efd748ddca278c3bba1267a535147dc052dc0aaac57886be65235d16d6a47&",
+        "isHorizontal": false
+      }
+    },
+    "name": "MGL-009-Jam Toast",
+    "type": "Object",
+    "cost": 0,
+    "Rarity": "SR",
+    "Environment": "Arid"
+  },
+  "SR | MGL-010": {
+    "id": "SR | MGL-010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Battery",
+        "type": "Object",
+        "cost": 0,
+        "image": "https://cdn.discordapp.com/attachments/1525706827617013770/1525707092550352986/010_Battery.png?ex=6a545cf5&is=6a530b75&hm=f24a5b56fafc9e2da87f73b6d5fc354a88815400ed2574115665f08ba293a850&",
+        "isHorizontal": false
+      }
+    },
+    "name": "MGL-010-Battery",
+    "type": "Object",
+    "cost": 0,
+    "Rarity": "SR",
+    "Environment": "Gloom"
+  },
+  "SR | MGL-011": {
+    "id": "SR | MGL-011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mitu Flashlight",
+        "type": "Object",
+        "cost": 0,
+        "image": "https://cdn.discordapp.com/attachments/1525706827617013770/1525707092994822154/011_MituFlashlight.png?ex=6a545cf5&is=6a530b75&hm=3b39e725bf550a8c9866e4e60b4ad6ff25cdeb0720838adc6eeed06fbe584c24&",
+        "isHorizontal": false
+      }
+    },
+    "name": "MGL-011-Mitu Flashlight",
+    "type": "Object",
+    "cost": 0,
+    "Rarity": "SR",
+    "Environment": "Tropic"
+  },
+  "SR | MGL-012": {
+    "id": "SR | MGL-012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Crystal",
+        "type": "Object",
+        "cost": 0,
+        "image": "https://cdn.discordapp.com/attachments/1525706827617013770/1525707093422903457/012_Crystal.png?ex=6a545cf5&is=6a530b75&hm=ae9ae265dfc4cc1643c7a10b73707bfb311c1777b3d0db168029c654f13c3231&",
+        "isHorizontal": false
+      }
+    },
+    "name": "MGL-012-Crystal",
+    "type": "Object",
+    "cost": 0,
+    "Environment": "Damp",
+    "Rarity": "SR"
+  },
+  "R | MGL-013": {
+    "id": "R | MGL-013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Byte",
+        "type": "Object",
+        "cost": 0,
+        "image": "https://cdn.discordapp.com/attachments/1525706827617013770/1525707093812707338/013_Byte.png?ex=6a545cf5&is=6a530b75&hm=a62ce271ff961829be8983264f596f5fef017435ce8adfe85959a940501d058c&",
+        "isHorizontal": false
+      }
+    },
+    "name": "MGL-013-Byte",
+    "type": "Object",
+    "cost": 0,
+    "Environment": "Chill",
+    "Rarity": "R"
+  },
+  "SR | MGL-014": {
+    "id": "SR | MGL-014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jelly Cube",
+        "type": "Object",
+        "cost": 0,
+        "image": "https://cdn.discordapp.com/attachments/1525706827617013770/1525707094286799030/014_JellyCube.png?ex=6a545cf5&is=6a530b75&hm=63dfa3c60b0051a3c8e3c25338f1ec9e53b83646109bd7265940a718931d52c3&",
+        "isHorizontal": false
+      }
+    },
+    "name": "MGL-014-Jelly Cube",
+    "type": "Object",
+    "cost": 0,
+    "Rarity": "SR",
+    "Environment": "Damp"
+  },
+  "SR | MGL-015": {
+    "id": "SR | MGL-015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fennec Bow",
+        "type": "Object",
+        "cost": 0,
+        "image": "https://cdn.discordapp.com/attachments/1525706827617013770/1525707094932848691/015_FennecBow.png?ex=6a545cf5&is=6a530b75&hm=4dbcbdf17f6a4ea8fcd0ce5c24fddbc5040f59e2e2496ca50758e990821d05f1&",
+        "isHorizontal": false
+      }
+    },
+    "name": "MGL-015-Fennec Bow",
+    "type": "Object",
+    "cost": 0,
+    "Rarity": "SR",
+    "Environment": "Chill"
+  },
+  "SR | MGL-016": {
+    "id": "SR | MGL-016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rose Magic Heart",
+        "type": "Object",
+        "cost": 0,
+        "image": "https://cdn.discordapp.com/attachments/1525706827617013770/1525707095398158376/016_RoseMagicHeart.png?ex=6a545cf5&is=6a530b75&hm=26251e52b576f4d1a9598a4f3510ae11b43ec651cc439918fd7ab9b9e2324a21&",
+        "isHorizontal": false
+      }
+    },
+    "name": "MGL-016-Rose Magic Heart",
+    "type": "Object",
+    "cost": 0,
+    "Environment": "Arid",
+    "Rarity": "SR"
+  },
+  "SR | MGL-017": {
+    "id": "SR | MGL-017",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hydrogen Canister",
+        "type": "Object",
+        "cost": 0,
+        "image": "https://cdn.discordapp.com/attachments/1525706827617013770/1525707095981424801/017_HydrogenCanister.png?ex=6a545cf5&is=6a530b75&hm=a1bd11ff93a142a132d91d28969970c779f776f13ce9a2769aed806de826ebf6&",
+        "isHorizontal": false
+      }
+    },
+    "name": "MGL-017-Hydrogen Canister",
+    "type": "Object",
+    "cost": 0,
+    "Environment": "Tropic",
+    "Rarity": "SR"
+  },
+  "SR | MGL-018": {
+    "id": "SR | MGL-018",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ceramo & Fate",
+        "type": "Object",
+        "cost": 0,
+        "image": "https://media.discordapp.net/attachments/1525706827617013770/1525707096744657036/018_CeramoAndFate.png?ex=6a545cf6&is=6a530b76&hm=7438a70b52e484bc4423a794c4e0f63650f0f6586731e55010021d3a25a4fb7b&=&format=webp&quality=lossless&width=768&height=1076",
+        "isHorizontal": false
+      }
+    },
+    "name": "MGL-018-Ceramo & Fate",
+    "type": "Object",
+    "cost": 0,
+    "Environment": "Gloom",
+    "Rarity": "SR"
+  },
+  "C | MGL-031": {
+    "id": "C | MGL-031",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Caltrops",
+        "type": "Support",
+        "cost": 0,
+        "image": "https://cdn.discordapp.com/attachments/1525706827617013770/1525723511312879646/031_Caltrops.png?ex=6a546c3f&is=6a531abf&hm=12a6f6ea264e3477cf8db76863f9331f291a8a622ace2b0d1a58f5ce462beb9f&",
+        "isHorizontal": false
+      }
+    },
+    "name": "MGL-031-Caltrops",
+    "type": "Support",
+    "cost": 0,
+    "Support Type": "Item",
+    "Environment": "",
+    "Rarity": "C"
+  },
+  "C | MGL-032": {
+    "id": "C | MGL-032",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fate",
+        "type": "Support",
+        "cost": 0,
+        "image": "https://cdn.discordapp.com/attachments/1525706827617013770/1525723511639904378/032_Fate.png?ex=6a546c3f&is=6a531abf&hm=384ab36b5b677976ed39e44052e07a4d353a2306e91ba885015c7a83dace4f9c&",
+        "isHorizontal": false
+      }
+    },
+    "name": "MGL-032-Fate",
+    "type": "Support",
+    "cost": 0,
+    "Support Type": "Item",
+    "Environment": "",
+    "Rarity": "C"
+  },
+  "C | MGL-034": {
+    "id": "C | MGL-034",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lemon Quadruped",
+        "type": "Support",
+        "cost": 0,
+        "image": "https://cdn.discordapp.com/attachments/1525706827617013770/1525723512034299974/034_LemonQuadruped.png?ex=6a546c3f&is=6a531abf&hm=b9dd32c887324cd9bc26c91f435bba321f760feffae37f4ca25d0bd705edec70&",
+        "isHorizontal": false
+      }
+    },
+    "name": "MGL-034-Lemon Quadruped",
+    "type": "Support",
+    "cost": 0,
+    "Support Type": "Minion",
+    "Environment": "",
+    "Rarity": "C"
+  },
+  "C | MGL-035": {
+    "id": "C | MGL-035",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mango Bandit",
+        "type": "Support",
+        "cost": 0,
+        "image": "https://cdn.discordapp.com/attachments/1525706827617013770/1525723512445210724/035_MangoBandit.png?ex=6a546c3f&is=6a531abf&hm=a86299ab5f59e6b73d523e4b433be599ade366ebcd9fa1c296f916cdd330b085&",
+        "isHorizontal": false
+      }
+    },
+    "name": "MGL-035-Mango Bandit",
+    "type": "Support",
+    "cost": 0,
+    "Support Type": "Minion",
+    "Environment": "",
+    "Rarity": "C"
+  },
+  "C | MGL-036": {
+    "id": "C | MGL-036",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rose Magic Bunny",
+        "type": "Support",
+        "cost": 0,
+        "image": "https://cdn.discordapp.com/attachments/1525706827617013770/1525828671485513838/036_RoseMagicBunny.png?ex=6a54ce2f&is=6a537caf&hm=8371f400016160954b732e44f73c8a28e278ac441e4c6c58d6e4bdb2a642a73d&",
+        "isHorizontal": false
+      }
+    },
+    "name": "MGL-036-Rose Magic Bunny",
+    "type": "Support",
+    "cost": 0,
+    "Support Type": "Minion",
+    "Environment": "",
+    "Rarity": "C"
+  },
+  "POWER | MGL-037": {
+    "id": "POWER | MGL-037",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sphere",
+        "type": "Power",
+        "cost": 0,
+        "image": "https://cdn.discordapp.com/attachments/1525706827617013770/1525722435280703548/POWER_Sphere.png?ex=6a546b3f&is=6a5319bf&hm=ff45524aa61c530dcea93121123ff9983005990e941dac2170e7eb2dd2c5752d&",
+        "isHorizontal": false
+      }
+    },
+    "name": "MGL-037-Sphere",
+    "type": "Power",
+    "cost": 0,
+    "Support Type": "",
+    "Environment": "",
+    "Rarity": "POWER"
+  }
+}
