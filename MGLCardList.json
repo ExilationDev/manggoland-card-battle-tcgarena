@@ -423,7 +423,7 @@
         "name": "Caltrops",
         "type": "Support",
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/ExilationDev/manggoland-card-battle-tcgarena/refs/heads/main/Cards/Objects/webp/031_Caltrops.webp",
+        "image": "https://raw.githubusercontent.com/ExilationDev/manggoland-card-battle-tcgarena/refs/heads/main/Cards/Supports/webp/031_Caltrops.webp",
         "isHorizontal": false
       }
     },
@@ -442,7 +442,7 @@
         "name": "Fate",
         "type": "Support",
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/ExilationDev/manggoland-card-battle-tcgarena/refs/heads/main/Cards/Objects/webp/032_Fate.webp",
+        "image": "https://raw.githubusercontent.com/ExilationDev/manggoland-card-battle-tcgarena/refs/heads/main/Cards/Supports/webp/032_Fate.webp",
         "isHorizontal": false
       }
     },
@@ -461,7 +461,7 @@
         "name": "Lemon Quadruped",
         "type": "Support",
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/ExilationDev/manggoland-card-battle-tcgarena/refs/heads/main/Cards/Objects/webp/034_LemonQuadruped.webp",
+        "image": "https://raw.githubusercontent.com/ExilationDev/manggoland-card-battle-tcgarena/refs/heads/main/Cards/Supports/webp/034_LemonQuadruped.webp",
         "isHorizontal": false
       }
     },
@@ -480,7 +480,7 @@
         "name": "Mango Bandit",
         "type": "Support",
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/ExilationDev/manggoland-card-battle-tcgarena/refs/heads/main/Cards/Objects/webp/035_MangoBandit.webp",
+        "image": "https://raw.githubusercontent.com/ExilationDev/manggoland-card-battle-tcgarena/refs/heads/main/Cards/Supports/webp/035_MangoBandit.webp",
         "isHorizontal": false
       }
     },
@@ -499,7 +499,7 @@
         "name": "Rose Magic Bunny",
         "type": "Support",
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/ExilationDev/manggoland-card-battle-tcgarena/refs/heads/main/Cards/Objects/webp/036_RoseMagicBunny.webp",
+        "image": "https://raw.githubusercontent.com/ExilationDev/manggoland-card-battle-tcgarena/refs/heads/main/Cards/Supports/webp/036_RoseMagicBunny.webp",
         "isHorizontal": false
       }
     },
@@ -518,7 +518,7 @@
         "name": "Sphere",
         "type": "Power",
         "cost": 0,
-        "image": "https://cdn.discordapp.com/attachments/1525706827617013770/1525722435280703548/POWER_Sphere.png?ex=6a546b3f&is=6a5319bf&hm=ff45524aa61c530dcea93121123ff9983005990e941dac2170e7eb2dd2c5752d&",
+        "image": "https://raw.githubusercontent.com/ExilationDev/manggoland-card-battle-tcgarena/refs/heads/main/Cards/Powers/webp/POWER_Sphere.webp",
         "isHorizontal": false
       }
     },
